@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-RenataNucci/RenataNucci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenataNucci&show_icons=true&theme=radical)
+
+<img src="{https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white}" />
